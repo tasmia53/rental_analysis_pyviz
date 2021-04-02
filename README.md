@@ -143,9 +143,7 @@ Using Scatter Mapbox object from plotly express, Geographical visualization of t
 
 Now that we have worked out all of the code and analysis, We will use the Panel library to build an interactive dashboard for all of the visualizations in `Dashboard.ipynb`. 
 
-   ```
-
-  ![dashboard-demo.gif](Images/dashboard-demo.gif)
+Please note, due to installation issues, files have been updated with different imports and coding, all the plotting is working fine.
 
 
     
